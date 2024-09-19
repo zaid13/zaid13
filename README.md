@@ -52,9 +52,9 @@
 <h3 align="left">Connect with me:</h3>
 <p style="margin-left: 2rem;">
   <span height="30" width="40"></span>
-<a href="https://twitter.com/iaashirkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaashirkhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aashir-khan-bb8315139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashir-khan-bb8315139" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7686708/aashir-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7686708/aashir-khan" height="30" width="40" /></a>
+<a href="https://x.com/zaidsaeed469508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaidsaeed469508" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zaid-saeed-flutter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaid-saeed-flutter" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11802402/zaid-saeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11802402/zaid-saeed" height="30" width="40" /></a>
 </p>
 
 <br/>
