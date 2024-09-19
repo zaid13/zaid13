@@ -5,17 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=giulico&label=Profile%20views&color=0e75b6&style=flat" alt="giulico" />
 </h1>
 
-<h1 align="center">Hi 👋, I'm Giulio</h1>
-<h3 align="center">I’m a creative web developer, focused on writing high quality and semantic code especially but not exclusively on the front end. I have strong experience in developing isomorphic SPA using ReactJS.</h3>
+<h1 align="center">Hi 👋, I'm Zaid</h1>
+<h3 align="center">I’m a software developer with 5 years of experience, focused on writing high quality and semantic code front end and backend and frontend. I have strong experience in developing backend services using FAST API</h3>
 
 
-- 📫 Personal website [TheyCallMeGiulio](https://www.theycallmegiulio.com/)
+- 📫 Linkedin [zaid-saeed](https://www.linkedin.com/in/zaid-saeed-flutter/)
 
-- 🔭 Former Senior Front End Developer at [Sketchin](https://www.sketchin.com/)
+- 🔭 Former Senior Developer at [SnapEx](https://snapex.com/)
 
-- ⚡ Former Senior Front End Developer at [AQuest](https://www.aquest.it/)
+- ⚡ Former Senior Developer at [PowerJames](https://powerjames.com/)
 
-- 👨‍💻 A selection of projects are available at [https://www.theycallmegiulio.com/](https://www.theycallmegiulio.com/)
 
 
 
