@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://twitter.com/this_is_giulio" target="_blank">
-    <img src="https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2Fthis_is_giulio" alt="Twitter">
+    <img src="https://img.shields.io/twitter/url?label=Twitter&url=https://x.com/zaidsaeed469508" alt="Twitter">
   </a>
   <img src="https://komarev.com/ghpvc/?username=giulico&label=Profile%20views&color=0e75b6&style=flat" alt="giulico" />
 </h1>
