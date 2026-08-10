@@ -1,65 +1,168 @@
-<h1 align="center">
-  <a href="https://twitter.com/this_is_giulio" target="_blank">
-    <img src="https://img.shields.io/twitter/url?label=Twitter&url=https://x.com/zaidsaeed469508" alt="Twitter">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=giulico&label=Profile%20views&color=0e75b6&style=flat" alt="giulico" />
-</h1>
+# 👋 Hi, I'm Zaid Saeed
 
-<h1 align="center">Hi 👋, I'm Zaid</h1>
-<h3 align="center">I’m a software developer with 5 years of experience, focused on writing high quality and semantic code front end and backend and frontend. I have strong experience in developing backend services using FAST API</h3>
+### 🚀 Senior Mobile & Flutter Developer
 
+I’m a passionate **Mobile Application Developer** specializing in **Flutter & Dart**, building high-quality, scalable, and user-friendly applications for **iOS and Android**.
 
-- 📫 Linkedin [zaid-saeed](https://www.linkedin.com/in/zaid-saeed-flutter/)
+I enjoy turning ideas into production-ready products, working across the full development lifecycle — from UI/UX and architecture to APIs, databases, testing, CI/CD, and App Store deployment.
 
-- 🔭 Former Senior Developer at [SnapEx](https://snapex.com/)
+---
 
-- ⚡ Former Senior Developer at [PowerJames](https://powerjames.com/)
+## 💼 Experience
 
+* 🔭 **Former Senior Developer** — [SnapEx](https://snapex.com/)
+* ⚡ **Former Senior Developer** — [PowerJames](https://powerjames.com/)
+* 📫 **LinkedIn** — [zaid-saeed](https://www.linkedin.com/in/zaid-saeed-flutter/)
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+---
 
-- 📜 &nbsp;Language:&nbsp;
-  ![Javascript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=Javascript&logoColor=yellow)
-  ![GO](https://img.shields.io/badge/-Go-0A1A2F?style=flat&logo=go)
-- 📱 &nbsp;Mobile:&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
-- 🗄 &nbsp;Backend:&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-  ![ExpressJS](https://img.shields.io/badge/-ExpressJS-0A1A2F?style=flat&logo=express&logoColor=blue)
-  ![NestJS](https://img.shields.io/badge/-NestJS-0A1A2F?style=flat&logo=nestjs&logoColor=red)
-- 🌐 &nbsp;Frontend:&nbsp;
-  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-0A1A2F?style=flat&logo=angular&logoColor=d5042f)
-  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
-- 🛢 &nbsp;Database:&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
-  ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
-- ⚙️ &nbsp;VCS: &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-bitbucket-0A1A2F?style=flat&logo=bitbucket)
-- 🔧 &nbsp;IDE's:&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime Text](https://img.shields.io/badge/-Sublime-0A1A2F?style=flat&logo=sublime-text&logoColor=orange)
-- 🖥 &nbsp;Design:&nbsp;
-  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
-  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
-- ♾️ &nbsp;Devops:&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker&logoColor=blue)
-  
-  
-<h3 align="left">Connect with me:</h3>
-<p style="margin-left: 2rem;">
-  <span height="30" width="40"></span>
-<a href="https://x.com/zaidsaeed469508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaidsaeed469508" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zaid-saeed-flutter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaid-saeed-flutter" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11802402/zaid-saeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11802402/zaid-saeed" height="30" width="40" /></a>
+## 🛠️ Tech Stack
+
+### 📱 Mobile App Development
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-<br/>
+* Cross-platform mobile development
+* Flutter UI & animations
+* State management
+* REST API integration
+* Firebase integration
+* Push notifications
+* Deep linking
+* Authentication
+* In-app purchases
+* App performance optimization
 
-<!-- <a href="https://github.com/jrgarciadev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrgarciadev&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
-</a> -->
+### 💻 Languages
 
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Responsive_UI-4285F4?style=for-the-badge" />
+</p>
+
+### 🗄️ Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### 🛢️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### ⚙️ Version Control
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+
+### 🔧 Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+</p>
+
+### 🎨 UI/UX & Design
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+</p>
+
+### 🚀 DevOps & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase_Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+</p>
+
+---
+
+## 📱 Mobile Development Expertise
+
+```text
+Flutter / Dart
+      │
+      ├── 📱 iOS Applications
+      ├── 🤖 Android Applications
+      ├── 🎨 UI/UX & Animations
+      ├── 🔌 REST APIs
+      ├── 🔥 Firebase
+      ├── 🗄️ Databases
+      ├── 🔐 Authentication
+      ├── 🔔 Push Notifications
+      ├── 🧪 Testing & Debugging
+      ├── 🚀 CI/CD
+      └── 📦 App Store & Play Store Deployment
+```
+
+---
+
+## 🍎 App Store & Google Play
+
+Experienced in taking mobile applications from development to production, including:
+
+* 🍎 **Apple App Store** submission and deployment
+* 🤖 **Google Play Store** submission and deployment
+* 🔐 Certificates, provisioning profiles & signing
+* 📦 Release builds & version management
+* 🚀 Production releases and updates
+* 🧪 Beta testing and distribution
+* 📊 Crash monitoring and app performance
+
+---
+
+## 📊 What I Build
+
+* 📱 Cross-platform mobile applications
+* 💼 Business & enterprise applications
+* 💰 FinTech applications
+* 🛒 E-commerce applications
+* 🔐 Authentication & secure applications
+* 🔌 API-driven applications
+* 🔥 Firebase-powered applications
+* 🎨 Pixel-perfect Flutter interfaces
+* ⚡ High-performance mobile experiences
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zaid-saeed-flutter/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zaid%20Saeed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>💙 Building beautiful, scalable & high-performance mobile apps with Flutter.</b>
+</p>
